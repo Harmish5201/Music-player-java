@@ -1,7 +1,7 @@
 # Music player
 
-A school project made using <strong>Java</strong> & <strong>JavaFX </strong>.
-<img width="602" height="432" alt="image" src="https://github.com/user-attachments/assets/4332557d-5493-4d02-98fe-5f7487021fad" />
+A school project made using <strong>Java</strong> & <strong>JavaFX </strong>. <br>
+<img width="502" height="332" alt="image" src="https://github.com/user-attachments/assets/4332557d-5493-4d02-98fe-5f7487021fad" />
 
 
 ## To run
